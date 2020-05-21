@@ -1,0 +1,21 @@
+#section1
+{
+    background-color:mediumblue;
+}
+
+#Bristlecone
+{
+    font-size: larger;
+    font-weight: bold;
+    font-style: normal;
+    font: outline;
+    font-family: 'Times New Roman', Times, serif;
+    color: seashell;
+    font-size-adjust: inherit;
+    border: maroon;
+}
+
+#table1
+{
+    float: right;
+}
